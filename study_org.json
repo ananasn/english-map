@@ -856,5 +856,29 @@
     "country": "Беларусь",
     "latitude": 53.858257,
     "longitude": 27.4852876750563
+  },
+  {
+    "title": "Australian National University",
+    "country": "Австралия",
+    "latitude": -35.277578,
+    "longitude": 149.118776
+  },
+  {
+    "title": "Unitec University",
+    "country": "Гондурас",
+    "latitude": 14.049428,
+    "longitude": -87.174094
+  },
+  {
+    "title": "Shanghai Customs College",
+    "country": "China",
+    "latitude": 31.167385,
+    "longitude": 121.577839
+  },
+  {
+    "title": "Lyceum of the Philippines University",
+    "country": "Philippines",
+    "latitude": 14.591899,
+    "longitude": 120.977779563
   }
 ]
